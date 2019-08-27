@@ -1,5 +1,5 @@
 # desafio-clickbus
-- [API-Heroku](#API-Heroku)
+- [API-Heroku](#API Heroku)
 - [Contrato-Api](#contrato)
 - .[Model](#model)
 
@@ -17,6 +17,8 @@ Busca por nome e cidade: /clickBus/v1/places/getNameAndCity/{name}/{city}
 
 # Post
 Cadastrar Local: /clickBus/v1/place
+Content Type: application/json
+Exemplo:
 {
   "city": "string",
   "creationDate": "2019-08-27T01:23:38.270Z",
@@ -42,7 +44,7 @@ Exemplo:
 Exclusão: /clickBus/v1/{id}
 Parameter: {id}
 
-# API-Heroku
+# API Heroku
 Para utilizar os end-points da Api é necessário entrar no link abaixo e começar a fazer as chamadas nos end-points descritos a cima.
 End-Point-heroku: https://gentle-basin-10620.herokuapp.com/swagger-ui.html#/
 
