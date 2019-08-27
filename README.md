@@ -32,7 +32,7 @@ Exemplo:
 </p>
 
 # DeleteMapping
-# Exclusão: /clickBus/v1/{id}
+###### Exclusão: /clickBus/v1/{id}
 Parameter: {id}
 
 # API-Heroku
