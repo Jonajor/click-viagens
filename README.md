@@ -1,4 +1,4 @@
-# desafio-clickbus
+# click-viagens
 - [API-Heroku](#API-Heroku)
 - [Contrato-Api](#contrato)
 - .[Model](#model)
