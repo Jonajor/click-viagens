@@ -37,7 +37,7 @@ Parameter: {id}
 
 # API-Heroku
 Para utilizar os end-points da Api é necessário entrar no link abaixo e começar a fazer as chamadas nos end-points descritos a cima.
-End-Point-heroku: https://gentle-basin-10620.herokuapp.com/swagger-ui.html#/
+End-Point-heroku: https://click-bus.herokuapp.com/swagger-ui.html#/
 <p align="center">
 <img src="https://github.com/Jonathan16811/images/blob/master/swagger.png.png">
 </p>
